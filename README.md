@@ -1,13 +1,10 @@
-# Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+# Install in locally
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+1. git clone https://github.com/RutvikGujarati/project_modern_ui_ux_gpt3
+2. cd project_modern_ui_ux_gpt3
+3. npm install or yarn install
+4. npm run start or yarn start
+   
 
 You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
 
