@@ -8,10 +8,8 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
-      <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      <h1 className="gradient__text">Unlock the potential of blockchain for a more equitable and efficient society !</h1>
+      <p>Blockchain technology is a decentralized, distributed digital ledger that is used to record and verify transactions across multiple computers in a network. Each block in the chain contains a record of several transactions, and once a block is added to the chain, it cannot be altered or deleted. The technology was originally developed for use in cryptocurrencies such as Bitcoin, but it has since been adapted for use in a wide range of applications.</p>
     </div>
   </div>
 );

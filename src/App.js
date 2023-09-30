@@ -1,7 +1,9 @@
 import React from 'react';
+// import { Routes, Route } from 'react-router-dom';
+// import Vote from './components/vote';
 
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { Brand, Navbar } from './components';
 
 import './App.css';
 
@@ -11,11 +13,15 @@ const App = () => (
       <Navbar />
       <Header />
     </div>
+    {/*
+    <Routes>
+      <Route path="/vote" element={<Vote />} />
+    </Routes> */}
+
     <Brand />
     <WhatGPT3 />
     <Features />
     <Possibility />
-    <CTA />
     <Blog />
     <Footer />
   </div>

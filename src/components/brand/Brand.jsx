@@ -1,25 +1,20 @@
 import React from 'react';
-import { google, slack, atlassian, dropbox, shopify } from './imports';
 import './brand.css';
+// import { Link } from 'react-router-dom';
 
 const Brand = () => (
-  <div className="gpt3__brand section__padding">
-    <div>
-      <img src={google} />
+  <div className="gpt3__cta">
+    <div className="gpt3__cta-content">
+      <h3>One vote can make all the difference - make yours count.</h3>
     </div>
-    <div>
-      <img src={slack} />
-    </div>
-    <div>
-      <img src={atlassian} />
-    </div>
-    <div>
-      <img src={dropbox} />
-    </div>
-    <div>
-      <img src={shopify} />
+    <div className="gpt3__cta-btn">
+
+      {/* <Link to="/vote" className="link">
+        <button type="button">Let&apos;s Vote</button>
+      </Link> */}
     </div>
   </div>
 );
 
 export default Brand;
+

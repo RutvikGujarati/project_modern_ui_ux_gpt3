@@ -37,6 +37,11 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
+.link {
+  text-decoration: none;
+  color: white;
+}
+
 .section__padding {
   padding: 4rem 6rem;
 }
